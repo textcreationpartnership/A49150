@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Looking-glass for King-opposers, or, Twenty admirable examples of Gods severe justice and displeasure against the subscribers of the late engagement against our lawfull soveraign King Charles the II and the whole House of Peers : in these words, I do declare and promise that I will be true and faithfull to the Commonwealth of England ... also against some of the judges of the late King in the high court of injustice.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49150</idno><idno type="EEBO-CITATION">7940531</idno>
+  <idno type="VID">40578</idno>
+  <idno type="EEBO-PROQUEST">2248543195</idno>
+  
+            <idno type="STC">Wing L3019</idno>
+            <idno type="STC">ESTC R24013</idno>
+            <idno type="OCLC">07940531</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40578)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1210:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Looking-glass for King-opposers, or, Twenty admirable examples of Gods severe justice and displeasure against the subscribers of the late engagement against our lawfull soveraign King Charles the II and the whole House of Peers : in these words, I do declare and promise that I will be true and faithfull to the Commonwealth of England ... also against some of the judges of the late King in the high court of injustice.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: p. 7-8 wanting.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40578:1"/>
+            <p>A Looking-Glass FOR KING-OPPOSER'S, OR, Twenty Admirable Examples of Gods Severe Justice and Displeasure against the SUBSCRIBERS of the late ENGAGE<g ref="char:EOLhyphen"/>MENT against our Lawfull SOVERAIGN King CHARLES the II.</p>
+            <p>And the whole HOUSE of PEERS: In these words, <hi>I do declare and promise, that I will be True and Faithfull to the Common wealth of</hi> England <hi>as it is now established, without a</hi> KING <hi>or House of</hi> LORDS.</p>
+            <p>Also against some of the Judges of the late KING in the High Court of INJUSTICE.</p>
+            <q>
+               <bibl>
+                  <hi>Ecles. 10.20.</hi>
+               </bibl> Curse not the King, no not in thy thought.</q>
+            <q> God hath Woollen feet, but Iron hands. <bibl>
+                  <hi>Aug.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Thomas,</hi> and are to be sold at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little-Britain,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40578:2"/>
+            <pb n="3" facs="tcp:40578:2"/>
+            <head>The Westminsterian Engagement. January <hi>2. 1649.</hi>
+            </head>
+            <p>
+               <hi>I</hi> Doe Declare and promise, that I will be true and faith<g ref="char:EOLhyphen"/>full to the Common-wealth of <hi>England,</hi> as it is now e<g ref="char:EOLhyphen"/>stablished without a King or House of Lords.</p>
+            <div type="part">
+               <head>The summe or substance of the penalty of not sub<g ref="char:EOLhyphen"/>scribing it.</head>
+               <p>BE it enacted by Authority of Parliament, that whatsoever person or persons shall refuse the ta<g ref="char:EOLhyphen"/>king or subscribing of this Engagement, shall be disabled to hold or enjoy any Place or Office of pub<g ref="char:EOLhyphen"/>lique trust, profit, or employment whatsoever; And that if he do continue therein without any such sub<g ref="char:EOLhyphen"/>scription as aforesaid, contrary to this Act of Parlia<g ref="char:EOLhyphen"/>ment; he shall forfeit all such offices, places or em<g ref="char:EOLhyphen"/>ployment and profits whatsoever; and shall forfeit also double the value of such profits and benefits as they shall have received and taken as aforesaid: And for default of distresse and sale of such offenders goods, the offender to be imprisoned, till the said
+<pb n="4" facs="tcp:40578:3"/> forfeitures be fully satisfied and paid. And it is fur<g ref="char:EOLhyphen"/>ther enacted and declared, that all and every person or persons so offending as aforesaid, is, are and shall be uncapable of Voting or giving his suffrage or con<g ref="char:EOLhyphen"/>sent in the choice or election of any Officer or Magi<g ref="char:EOLhyphen"/>strate in the City of <hi>London</hi> or else where, within the Common-wealth of <hi>England.</hi> And shall also be unca<g ref="char:EOLhyphen"/>pable of the benefit of Law from any Courts of Ju<g ref="char:EOLhyphen"/>stice of this Commonwealth, in any manner of Plea whatsoever, between Plaintiff and Defendant, in or for any Suit, Plaint, Bill, Action, Information, Writ, Demand, Execution, or any other processe whatsoe<g ref="char:EOLhyphen"/>ver, except onely in case of Treason, Felony, or breach of the peace and good behaviour.</p>
+            </div>
+            <div type="part">
+               <head>The Observation on this Penalty, for non-subscri<g ref="char:EOLhyphen"/>bing the Engagement.</head>
+               <p>THe sum of the aforesaid penalty, amounting to thus much, that every person whatsoever, that subscribes not their Engagement, is made an absolute Out-lawed per<g ref="char:EOLhyphen"/>son, unable to help himself, or to be holpen by any, against any wrongs or injuries whatsoever, done to his person or estate, except as before, by them excepted. Such a cruelty and tyranny as never was heard of in this Kingdome, nor in any Nation, or well governed State, or Common-wealth in Christendome; especially to be enacted or executed up<g ref="char:EOLhyphen"/>on any of their Natives, or free Denizens, though never so foul or hainous offenders (much lesse upon their pious, peaceable and most honest people) save onely among the Antichristian Romanists, against those whom they call and counted Hereticks.</p>
+               <pb n="5" facs="tcp:40578:3"/>
+               <p>Wherefore since the Saints godly party at <hi>Westmin<g ref="char:EOLhyphen"/>ster</hi> (as they most audaciously and falsly call themselves) and all the rest of their most hypocriticall adherents have been so bold thus to set up this <hi>Dagon</hi> by Gods Ark, and their posts by Gods posts, and so deceitfully to glory and triumph in their pretended Providences and succes<g ref="char:EOLhyphen"/>ses, ever since their, thus, setting up this <hi>Dagon,</hi> the <hi>Westminsterian</hi> Engagement, in opposition to the Nati<g ref="char:EOLhyphen"/>onall Covenant. I shall here, now (therefore) give the god<g ref="char:EOLhyphen"/>ly and impartiall Reader, divers most remarkable ex<g ref="char:EOLhyphen"/>amples, and apparent Demonstrations of Gods evident and eminent wrath and indignation, expressed against them ever since their setting up their said <hi>Dagon,</hi> in these most memorable and remarkable examples, follow<g ref="char:EOLhyphen"/>ing:</p>
+            </div>
+            <div type="part">
+               <head>Twenty admirable examples of Gods displeasure against Subscribers of the Engagement, and complices with the late Power.</head>
+               <p n="1">1. THen consider, admire and wonder, that upon the very first day of the publication of the Act for taking the Engagement, which was <hi>January</hi> 4. 1650. in the evening of that same day, did that most terrible and fearfull fire by Gun-powder break forth at <hi>Barkin</hi>-Church, neer the Tower of <hi>London,</hi> the like to which was never seen or heard of before, in or about the said City, in which were most sud<g ref="char:EOLhyphen"/>denly blown up and destroyed above a hundred hou<g ref="char:EOLhyphen"/>ses, and above 120. persons most lamentably kill'd and destroyed, and their Carkases miserably torn in pie<g ref="char:EOLhyphen"/>ces; among whom was Lievtenant Col. <hi>Smith,</hi> one of Sir <hi>Hardress Wallers</hi> chief sticklers, to pull the se<g ref="char:EOLhyphen"/>cluded members out of the House of Commons in Parliament. And was not this a most fearfull fore<g ref="char:EOLhyphen"/>runner
+<pb n="6" facs="tcp:40578:4"/> and heavy Harbinger of the wofull effects of this their immediately following Engagements.</p>
+               <p n="2">2. One Mr. <hi>Mosty</hi> Minister of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in <hi>Essex</hi> ha<g ref="char:EOLhyphen"/>ving taken the engagement (and that in his own sense and limitations, to his best content, as he thought) yet was immediately after so perplexed and distracted in his Conscience, that he could nei<g ref="char:EOLhyphen"/>ther Preach nor Pray, nor be at any quiet or peace within himself, till he had procured liberty to race out his name from under the Engagement: where<g ref="char:EOLhyphen"/>unto he had subscribed it.</p>
+               <p n="3">3. One Col. <hi>Russell,</hi> a great favourite and Com<g ref="char:EOLhyphen"/>missioner in the Army, after his taking of the Engage<g ref="char:EOLhyphen"/>ment, was so vexed and distracted in his soule, that he confessed to some of his religious friends (himself also being lookt upon as a very religious Gentleman) that immediately upon his taking the Engagement, he found by evident symptomes, that the Devil took actuall possession of him, and made him desperately prone to commit any notorious villany whatsoever, even to the ravishing of his own maid-servant; but afterward gave most eminent testimonies of his true repentance, and abhorrence of his taking of it.</p>
+               <p n="4">4. One Mr. <hi>Edward Fisher,</hi> a very tender consci<g ref="char:EOLhyphen"/>encious Christian, and godly Citizen of <hi>London,</hi> in the <hi>Old-baily,</hi> having taken the Engagement, and though in his own sense and limitations (as he thought to his full content) yet presently after, be<g ref="char:EOLhyphen"/>ing extreamly grieved and perplexed in spirit, for that he had done, therein laboured to Alderman <hi>Al<g ref="char:EOLhyphen"/>len</hi> to have his name raced out, but could not be per<g ref="char:EOLhyphen"/>mitted, to the increase of his great grief; and there<g ref="char:EOLhyphen"/>upon fell into great distresses and trouble of Consci<g ref="char:EOLhyphen"/>ence, and into pyning and languishing sicknesse, caught a great fall in his house, which put his shoul<g ref="char:EOLhyphen"/>der</p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <p n="9">
+                  <pb n="9" facs="tcp:40578:5"/>9. One Sir <hi>Thomas Martin,</hi> Knight of <hi>Cambridge-shire,</hi> an Engager and a great Complyer with the times, ha<g ref="char:EOLhyphen"/>ving been a hunting in <hi>Holmby-Park,</hi> and the Deer be<g ref="char:EOLhyphen"/>ing faln, stuck and opened, and he desired (together with the other Gentlemen) to wash his hands in the Deers blood; No (said he) I had rather wash my hands in the blood <hi>of the young King of Scots.</hi> And imme<g ref="char:EOLhyphen"/>diately after this, riding home the same Day at Even<g ref="char:EOLhyphen"/>ing, his Horse very suddenly and violently threw him, in which fall, he pitch't on his head, mortally brake his Skull, and shoulder, of which wounds he very short<g ref="char:EOLhyphen"/>ly after died.</p>
+               <p n="10">10. The Constable of <hi>Shaw</hi> in <hi>Lancashire,</hi> four miles from <hi>Manchester,</hi> having taken the Engagement, was presently after so perplexed in Conscience, that not<g ref="char:EOLhyphen"/>withstanding all the Godly Exhortations, and Comforts administred unto him by godly neighbour Ministers, yet the apprehension of Gods wrath, for what he had done therein, so increased upon him, that he fell distracted, and so continued many weeks toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p n="11">11. Also one M. <hi>Rich. Smith</hi> Minister of <hi>Stoke,</hi> Prior in <hi>VVorcestershire,</hi> having taken the Engagement for the procuring of an Augmentation to his Living, returning home from <hi>London</hi> after he had taken it, fell presently into such a <hi>frighting horrour of Conscience and Distraction of his Senses, that he had oft endevoured to beat out his own brains;</hi> But at last recovered his Sences by Gods great mercy repented bitterly of what he had done, and thereupon in peace departed this life in a sickneess which then took him.</p>
+               <p n="12">12. Dr. <hi>Dorislaus,</hi> the <hi>Westminsterians</hi> Juncto's first
+<pb n="10" facs="tcp:40578:6"/> Embassadour, sent from them into <hi>Holland,</hi> and there<g ref="char:EOLhyphen"/>fore no doubt a great Engager, and desperate Com<g ref="char:EOLhyphen"/>plyer in all things with them, as in the Kings death; being arrived in <hi>Holland,</hi> was therein immediately and suddenly assaulted and murthered as he sate at dinner in his house.</p>
+               <p n="13">13. Also Mr. <hi>Anthony Ascham,</hi> a Gentleman of ex<g ref="char:EOLhyphen"/>cellent parts, being sent (as the Juncto's the Embassa<g ref="char:EOLhyphen"/>dor) into <hi>Spain,</hi> very shortly after his arrival there at <hi>Madrid,</hi> was in his own house there suddenly and most furiously set upon and assaulted, by divers desperate <hi>English</hi> Caviliers, and he and his Interpreter was hen and there murthered.</p>
+               <p n="14">14. Collonel <hi>Rainsborow,</hi> a mighty Engager and prime stickler for the power at <hi>Westminster,</hi> a desperate header of the Levellers, &amp; Admiral of the Navy at Sea, was suddenly also assaulted by a company of Caviliers at <hi>Pomfrait</hi> town in <hi>Yorkshire</hi> in an Inne, and there mur<g ref="char:EOLhyphen"/>thered by them.</p>
+               <p n="15">15. Mr. <hi>Tho. Hoyle,</hi> formerly lookt upon as a very pious and strictly religious Gentleman, an Alderman of <hi>York,</hi> and Member of the Parliament; but afterward having taken the Engagement even against his consci<g ref="char:EOLhyphen"/>ence, and turned a great complyer with them at <hi>West<g ref="char:EOLhyphen"/>minster:</hi> Not long after, it pleased the Lord so to leave him to himself, that on the very same day 12 moneth, that King <hi>Charles</hi> was beheaded, yea as near as possible could be judged about the very same houre of that day this Gentleman hang'd himself in his own house at <hi>West<g ref="char:EOLhyphen"/>minster,</hi> and was found stark dead by his woeful wife when she came home, having been abroad that morn<g ref="char:EOLhyphen"/>ing.</p>
+               <p n="16">
+                  <pb n="11" facs="tcp:40578:6"/>16. Mr. <hi>Shereman</hi> a Citizen and Silkman in <hi>Pater-Noster-Row</hi> in <hi>London,</hi> who had formerly been lookt on as a godly and religious Gentleman, had been a Tryer and an Elder in the Presbyterian Church Government, a singular good friend to Mr. <hi>Love;</hi> then his Pastour; but afterward he turning with the times took the En<g ref="char:EOLhyphen"/>gagement, and that in form of an Oath, whereupon he was made a Common Council man, turn'd a desperate enemy, and hater of the said M. <hi>Love;</hi> who shortly after being in his shop with his wife, as perfectly well as ever ever in his life, yet in the Evening standing at his coun<g ref="char:EOLhyphen"/>ter in his shop, and his wife close by him, he suddenly sunk down by her stark dead, and never spake one word after it.</p>
+               <p n="17">17. Also Collonel <hi>Ven</hi> a Citizen of <hi>London,</hi> for<g ref="char:EOLhyphen"/>merly a great Professor of Religion, and a long time Mr. <hi>Love</hi>'s precious dear friend, and a Member of the House of Commons in Parliament; but being turned with the times, was a great Engager and mighty stick<g ref="char:EOLhyphen"/>ler for, and with them at <hi>Westminster;</hi> yea, he proved afterwards a most bitter enemy to the <hi>Presbyterian Mi<g ref="char:EOLhyphen"/>nisters</hi> of <hi>London,</hi> and upon occasion used those words against them, <hi>Viz. They at VVestminster should never be at quiet, till they had provided a pair of shooes and a staffe for the turbulent Presbyterian Ministers of</hi> London, <hi>and banisht them out of the Kingdom:</hi> But it pleased the Lord, that on the very next day after that horrible abuse and banishment done to Mr. <hi>Jenkin</hi> then Minister of <hi>Christ-Church London,</hi> in both sequestring him out of his said Living, and banishing him out of the City, wherein this Coll. <hi>Ven</hi> had a hand also, and had most churlishly carried himself toward Master <hi>Jenkin</hi> in the Commit<g ref="char:EOLhyphen"/>tee
+<pb n="12" facs="tcp:40578:7"/> even that day, whereon this godly Minister was so censured, which was <hi>July</hi> the 6. 1650. being <hi>Thurs<g ref="char:EOLhyphen"/>day.</hi> It pleased the Lord, I say, that Master <hi>Ven</hi> next <hi>Friday</hi> following, <hi>July</hi> 7. and at night, this Coll. going to bed, as perfectly well and in health, as ever in his life, and his wife lying by him, he fell asleep by her imme<g ref="char:EOLhyphen"/>diately, and slept soundly without any complaint of the least distemper, but the next morning about 6. of the clock his wife awaking, found him starke dead by her in the bed, never having made the least groan, or spoken one word to her since the day before. And thus God banished him first out of the Land of the Li<g ref="char:EOLhyphen"/>ving.</p>
+               <p n="18">18. One Sir <hi>Henry Holcroft,</hi> why had formerly been a great Professour of Religion, and to see too a practiser of the power of Godlynesse, but afterwards drew back and Apostatized to the <hi>Independent</hi> Faction, took the Engagement, and fell into great complyance with them, being a Committee Gentleman, and acting stre<g ref="char:EOLhyphen"/>nuously for them. But immediatly after this, it plea<g ref="char:EOLhyphen"/>sed the Lord, that he fell into a sore disease, and much and often bleeding at his nose and mouth, and so con<g ref="char:EOLhyphen"/>tinued all the time of his said sinful complyance with them, and at last fell into such fits of extreme bleed<g ref="char:EOLhyphen"/>ding, and strongly vomiting up even of gobbets of blood at his mouth, and flowing out of blood at his nose with such unstintable violence, that he most sad<g ref="char:EOLhyphen"/>ly departed this Life, in one of the extreme fits thereof.</p>
+               <p n="19">19. In <hi>August</hi> 1650. <hi>Barron Rigby,</hi> a most desperate Enemy to the <hi>Presbyterians Church Discipline,</hi> as being a great <hi>Independent</hi> together with Baron <hi>Yates,</hi> the two Jud<g ref="char:EOLhyphen"/>ges
+<pb n="13" facs="tcp:40578:7"/> for the Assizes then held at <hi>Chalmsford</hi> in <hi>Essex,</hi> two grand Engagers (as every one may know) and deep complyers <hi>with the VVestminsterian power:</hi> They both being at <hi>Chalimford,</hi> and hearing the Assize Sermon preach't before them, the Godly Ministers Text being out of <hi>Luke</hi> the 16.2. <hi>Give an account of thy Steward<g ref="char:EOLhyphen"/>ship, for thou maist be no longer Steward.</hi> Immediately after this Sermon, it pleased the Lord to strike Judge <hi>Rigby</hi> with present sickness, so as that they could not keep the Assizes there, but were forced to adjourn it, promising and hoping to come again and finish it there, and went thence to <hi>Croydon</hi> in <hi>Surry</hi> to hold the Assi<g ref="char:EOLhyphen"/>zes there; but having begun to sit, both Judge <hi>Rigby</hi> his sickness so increased upon him, and the like sick<g ref="char:EOLhyphen"/>nesse suddenly so assaulted Judge <hi>Yates</hi> also, and with such violent pain and great distemper upon them both, and also upon the High Sheriffe of <hi>Surry</hi> then present with them, who also was smitten with the same sick<g ref="char:EOLhyphen"/>nesse, at that time that the Assizes was enforced to cease there also, and they all three were speedily con<g ref="char:EOLhyphen"/>veyed away thence to <hi>London,</hi> where they all three died immediatly after, even within a seven nights space, or thereabout, of a most violent pestilential Fe<g ref="char:EOLhyphen"/>ver; and very many more of their Clerks, Officers, and Attendants on the said Assizes died also at the same time, (as was generally, and most credibly in<g ref="char:EOLhyphen"/>formed and reported, and I my self know one Captain <hi>Hindely,</hi> one of Judge <hi>Rigby</hi>'s chief Clerks or Officers (who died at the same time) immediately upon the very same time of these Judges death. A most re<g ref="char:EOLhyphen"/>markable and fearful Example of Gods wrath upon Engagers and sinful Complyers with workers of ini<g ref="char:EOLhyphen"/>quity.
+<pb n="14" facs="tcp:40578:8"/>
+                  <hi>VVoe woe therefore to all Apostatizing Tempori<g ref="char:EOLhyphen"/>zers, and perfidious Backsliders,</hi> Heb. 10.38. And as is further most evident in those Scriptures, beneath fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p n="20">20. I shall conclude all with the memorable Exam<g ref="char:EOLhyphen"/>ple of Gods Divine <hi>Justice</hi> upon <hi>Lockyer,</hi> an Active <hi>Agitator</hi> and <hi>Leveller</hi> in the <hi>Army,</hi> who had a principal hand in seising and bringing the King to his death, Cri<g ref="char:EOLhyphen"/>ed out, <hi>Justice, Justice, Justice,</hi> openly against him, and spit in the Kings face in <hi>VVestminster-Hall</hi> as he was going to his Tryal, before his condemnation, Con<g ref="char:EOLhyphen"/>ducted him to the Block; and was shortly after con<g ref="char:EOLhyphen"/>demned in a Counsel of War by some of the Kings own Judges, and shot to death as a Mutinier in <hi>Pauls-Church-yard London.</hi> Also <hi>John Lilburn</hi>'s double Try<g ref="char:EOLhyphen"/>al for his life; soon after, a grand stickler against the House of Lords: The proceedings against <hi>Saxbey, Syn<g ref="char:EOLhyphen"/>dercombe,</hi> and other <hi>Levellers,</hi> who were chief Instru<g ref="char:EOLhyphen"/>ments to bring the King to Justice; and the Grand Opposers of the House of Lords: Also the Imprison<g ref="char:EOLhyphen"/>ments and sufferings of <hi>M. G. Harrison,</hi> Collonel <hi>Rich,</hi> Collonel <hi>Okey,</hi> Lord <hi>Grey</hi> of <hi>Grooby,</hi> and others of the Kings condemners, who were all Engagers a<g ref="char:EOLhyphen"/>gainst the <hi>King and House of Lords.</hi>
+               </p>
+               <p>May it not awaken the stupid feared Consciences of all those now living, who had any hand in these Tra<g ref="char:EOLhyphen"/>gedies and Engagements <hi>against King and Parliament,</hi> to bring them to speedy and sincere publick Repen<g ref="char:EOLhyphen"/>tance for them; Lest they fall into the like <hi>Terrors or Judgements,</hi> as others that have so wilfully ingaged against King and House of Lords?</p>
+            </div>
+            <div type="postscript">
+               <pb n="15" facs="tcp:40578:8"/>
+               <head>POSTSCRIPT.</head>
+               <head type="sub">Unto this I shall onely add two Queries.</head>
+               <p>WHether those persons that are living, that took upon themselves the Name, Stile, and Title of the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of <hi>England, Scotland</hi> and <hi>Ireland,</hi> (though by their Writs by which they Sate, they were but the fragments of the <hi>Parliament</hi> of <hi>England</hi> only) beheaded their <hi>Lawful Protestant King,</hi> banished his Posterity, overturning our antient Government it self, Consisting of King, Lords and Commons, which Constitution continued many hundreds of years, and was the best and fittest for these <hi>Nations</hi> that could be, and brought the <hi>Nation</hi> into such a Labyrinth and Confusion, by endevouring to set up an <hi>Utopian</hi> Common-wealth, a mere New Nothing; VVhether the persons may not justly fear they may fall down Quick into Hell, or fall into the same Exemplary Terrors, Judgements, and self Ex<g ref="char:EOLhyphen"/>ecutions with others, if they repent not for their Abomina<g ref="char:EOLhyphen"/>tions.</p>
+               <p n="2">
+                  <hi>2.</hi> VVhether These men that set aside and repealed the Oaths of Supremacy and Allegiance as <hi>unlawful Oaths,</hi> which themselves took, or ought to take before they sate in the Commons House; and also the Protestation, Solemne League and Covenant made in Pursuance of them, and Dia<g ref="char:EOLhyphen"/>metrically contrary to these Oaths, to set up a New Engage<g ref="char:EOLhyphen"/>ment, to which every one must Subscribe to be true and faithful to their New Common-wealth, without King or House of Lords, bringing all <hi>English</hi> Freemen into a New Premunire, which thousands of our Godly Protestant Mini<g ref="char:EOLhyphen"/>sters, Gentry and Freemen refused to take; whether these men that can swallow all kind of Oaths, though directly contrary one to the other; Neither reverence God or Man, are fit per<g ref="char:EOLhyphen"/>sons to be Trustees for the <hi>Nation</hi> in this Time of Eminent Danger, now the <hi>Nation</hi> groans under so many Oppressions and Dangers.</p>
+               <q>
+                  <pb n="16" facs="tcp:40578:9"/>
+                  <bibl>
+                     <hi>Hebrewes 6.4, 5, 6.</hi>
+                  </bibl>
+                  <p>It is impossible for those who were once enlight<g ref="char:EOLhyphen"/>ned, and have tasted of the Heavenly Gift, and were made partakers of the Holy Ghost, and have tasted the good Word of God, and the Power<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the World to come; If they fall away, to renew them again to repentance; see<g ref="char:EOLhyphen"/>ing they crucifie to themselves the Son of life <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fresh, and put him to an open shame▪</p>
+                  <bibl>
+                     <hi>Jude 11.12.</hi>
+                  </bibl>
+                  <p>Woe to them, for they have gone in the way of <hi>Kain,</hi> and perished in the gainsaying of <hi>Core.</hi> They are Trees whose fruit is withe<g ref="char:EOLhyphen"/>red, Twice dead and plucked up by the roots.</p>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
